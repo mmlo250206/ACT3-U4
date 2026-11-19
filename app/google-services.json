@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "259383752536",
+    "project_id": "pelisapp-firebase",
+    "storage_bucket": "pelisapp-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259383752536:android:1b3b533b5f1ea5f77ad72d",
+        "android_client_info": {
+          "package_name": "com.example.music_app4e"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259383752536-j8o7pacuanf6f0pup322pogd8q5qldho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.music_app4e",
+            "certificate_hash": "5e90e3d16d5d629418e919beb09e5805b6f77df4"
+          }
+        },
+        {
+          "client_id": "259383752536-1i346ianbdlp82ek36muef5fvsor5upi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3KJr5mXJY3m7AEPYuCRsm6tbK3oUXNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259383752536-1i346ianbdlp82ek36muef5fvsor5upi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
